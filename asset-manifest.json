@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tinh-phan/monsters-rolodex/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tinh-phan/monsters-rolodex/static/js/main.afca55da.chunk.js",
+    "main.js.map": "/tinh-phan/monsters-rolodex/static/js/main.afca55da.chunk.js.map",
+    "runtime-main.js": "/tinh-phan/monsters-rolodex/static/js/runtime-main.c5615edb.js",
+    "runtime-main.js.map": "/tinh-phan/monsters-rolodex/static/js/runtime-main.c5615edb.js.map",
+    "static/js/2.dc0b79fc.chunk.js": "/tinh-phan/monsters-rolodex/static/js/2.dc0b79fc.chunk.js",
+    "static/js/2.dc0b79fc.chunk.js.map": "/tinh-phan/monsters-rolodex/static/js/2.dc0b79fc.chunk.js.map",
+    "index.html": "/tinh-phan/monsters-rolodex/index.html",
+    "precache-manifest.d6a2bc19974a887b34ce22df9902e55c.js": "/tinh-phan/monsters-rolodex/precache-manifest.d6a2bc19974a887b34ce22df9902e55c.js",
+    "service-worker.js": "/tinh-phan/monsters-rolodex/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tinh-phan/monsters-rolodex/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dc0b79fc.chunk.js.LICENSE.txt": "/tinh-phan/monsters-rolodex/static/js/2.dc0b79fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5615edb.js",
+    "static/js/2.dc0b79fc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.afca55da.chunk.js"
+  ]
+}
